@@ -34,9 +34,13 @@
 ###
 
 <img align="right" height="200" src="https://avatars.githubusercontent.com/u/96156057?v=4"  />
-![snake gif](https://github.com/wintervoid/wintervoid/blob/output/github-snake-dark.svg)
+
 ###
 
-<img src="https://raw.githubusercontent.com/wintervoid/wintervoid/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wintervoid/wintervoid/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wintervoid/wintervoid/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/wintervoid/output/github-snake.svg" />
+</picture>
 
 ###
